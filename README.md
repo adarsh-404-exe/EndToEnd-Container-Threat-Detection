@@ -74,8 +74,8 @@ There are several ways to use the model, simplest one being API call to get pred
 Use Python 3.11.0 - 3.11.8 to avoid environment packages conflict. To set it up in your local -
 
 ```bash
-git clone https://github.com/ananya868/Misuse-Detection-in-Containers-End-to-End-MLOps.git
-cd Misuse-Detection-in-Containers-End-to-End-MLOps.git
+git clone https://github.com/adarsh-404-exe/EndToEnd-Container-Threat-Detection.git
+cd EndToEnd-Container-Threat-Detection.git
 ```
 Create a virtual env, activate it and run -
 ```bash
@@ -142,11 +142,11 @@ print(f"Best Score: {score}") # 96%
 
 To use the model through docker, simply pull the docker image -
 ```bash
-docker pull ananya8154/misuse-detection-model
+docker pull adarshaa236/misuse-detection-model
 ```
 Run the Docker container - 
 ```bash
-docker run -d -p 8000:8000 ananya8154/misuse-detection-model
+docker run -d -p 8000:8000 adarshaa236/misuse-detection-model
 ```
 You can now access the service at http://localhost:8000 (or http://<server-ip>:8000 if on a remote server).
 
@@ -215,8 +215,7 @@ The file structure is spread into varying components. Given below is the complet
 ## **Contact**
 Feel free to reach me out for collaborations, queries or anything! Also, if you liked the repo, please give a start to this repo! 
 
-- Email: ananya8154@gmail.com
-- linkedIn: https://www.linkedin.com/in/ananya8154/
+- Email: adarshagrawal049@gmail.com
 
 
 
