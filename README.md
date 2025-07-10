@@ -1,6 +1,6 @@
-# Misuse Detection in Containers - MLOps Project 
+# End to End Threat  Detection in Containers - MLOps Project 
 
-Misuse Detection in containers using classification algorithms, end-to-end implemented with best-suited MlOps tools and frameworks. From data ingestion, pre-processing to model building, evalutaion and deployment, the project demonstrates an overview of all the steps involved in a data science / ML project. 
+Threat Detection in containers using classification algorithms, end-to-end implemented with best-suited MlOps tools and frameworks. From data ingestion, pre-processing to model building, evalutaion and deployment, the project demonstrates an overview of all the steps involved in a data science / ML project. 
 
 ```python
 import joblib
